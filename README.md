@@ -1,16 +1,13 @@
-## Hi there 👋
+Bom dia / Boa tarde / Boa noite 👋
 
-<!--
-**carolinelucelima-kai/carolinelucelima-kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Trabalho com Front-and para projetos e campanhas internas na empresa atual e também internamente para estudo e amigos!
+🎓 Estudando ADS e áreas relacionadas a IA
+🖱 Experiencia em hardware e software. 
+⚡ Fun fact 21 anos, com 1 ano de experiência e contando  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/carolinelucelima-kai">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinelucelima-kai&show_icons=true&theme=midnight-purple&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=c084fc&border_color=6b21a8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinelucelima-kai&layout=compact&theme=midnight-purple&bg_color=000000&title_color=a855f7&text_color=ffffff&border_color=6b21a8"/>
+  </a>
+</div>
