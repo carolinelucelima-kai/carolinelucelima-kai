@@ -7,7 +7,7 @@ Bom dia / Boa tarde / Boa noite 👋
 
 <div>
   <a href="https://github.com/carolinelucelima-kai">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinelucelima-kai&show_icons=true&theme=midnight-purple&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=c084fc&border_color=6b21a8"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinelucelima-kai&layout=compact&theme=midnight-purple&bg_color=000000&title_color=a855f7&text_color=ffffff&border_color=6b21a8"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carolinelucelima-kai&show_icons=true&theme=midnight-purple&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=c084fc&border_color=6b21a8"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinelucelima-kai&layout=compact&theme=midnight-purple&bg_color=000000&title_color=a855f7&text_color=ffffff&border_color=6b21a8"/>
   </a>
 </div>
